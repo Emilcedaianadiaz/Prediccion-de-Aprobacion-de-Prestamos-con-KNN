@@ -103,37 +103,4 @@ Este proyecto permitió reforzar conceptos relacionados con:
 * Evaluación de modelos mediante métricas de clasificación.
 * Interpretación de resultados para apoyar la toma de decisiones.
 
----
-
-## Estructura del repositorio
-
-```
-├── Prediccion_de_Aprobacion_de_Prestamos_con_KNN.ipynb
-├── README.md
-```
-
----
-
-## Cómo ejecutar el proyecto
-
-1. Clonar el repositorio.
-
-```bash
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-```
-
-2. Instalar las dependencias.
-
-```bash
-pip install pandas matplotlib scikit-learn kagglehub
-```
-
-3. Abrir el notebook con Jupyter Notebook o Visual Studio Code.
-
-4. Ejecutar las celdas en orden.
-
----
-
-## Autor
-
 Proyecto desarrollado como práctica de Machine Learning para fortalecer conocimientos en Ciencia de Datos utilizando Python y Scikit-learn.
